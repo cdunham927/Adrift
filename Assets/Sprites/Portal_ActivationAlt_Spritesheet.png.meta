@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: 1cabfd76d7581ce4ea62c9ff4cf5fd1c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9104529073827241915
+    second: Portal_ActivationAlt_Spritesheet_0
+  - first:
+      213: -6899712598536624345
+    second: Portal_ActivationAlt_Spritesheet_1
+  - first:
+      213: -3167195720673706253
+    second: Portal_ActivationAlt_Spritesheet_2
+  - first:
+      213: 3268565222354096050
+    second: Portal_ActivationAlt_Spritesheet_3
+  - first:
+      213: -7925184364501874507
+    second: Portal_ActivationAlt_Spritesheet_4
+  - first:
+      213: 3311446905863845656
+    second: Portal_ActivationAlt_Spritesheet_5
+  - first:
+      213: 9147122304413669452
+    second: Portal_ActivationAlt_Spritesheet_6
+  - first:
+      213: -4553835774853190811
+    second: Portal_ActivationAlt_Spritesheet_7
+  - first:
+      213: -4459090255830137811
+    second: Portal_ActivationAlt_Spritesheet_8
+  - first:
+      213: 3405886982812826183
+    second: Portal_ActivationAlt_Spritesheet_9
+  - first:
+      213: 4464669684727797119
+    second: Portal_ActivationAlt_Spritesheet_10
+  - first:
+      213: 5717560164645122400
+    second: Portal_ActivationAlt_Spritesheet_11
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Portal_ActivationAlt_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 195
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf50bc64f8c95e70800000000000000
+      internalID: 9104529073827241915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal_ActivationAlt_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 195
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727efe7a2fb4f30a0800000000000000
+      internalID: -6899712598536624345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal_ActivationAlt_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 195
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe3b17c54cdb04d0800000000000000
+      internalID: -3167195720673706253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal_ActivationAlt_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf8c9b80c64c5d20800000000000000
+      internalID: 3268565222354096050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal_ActivationAlt_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 130
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8c2665fc6140290800000000000000
+      internalID: -7925184364501874507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal_ActivationAlt_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 130
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817b4948a6f94fd20800000000000000
+      internalID: 3311446905863845656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal_ActivationAlt_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4811a7b54b11fe70800000000000000
+      internalID: 9147122304413669452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal_ActivationAlt_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 65
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56be8627d768dc0c0800000000000000
+      internalID: -4553835774853190811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal_ActivationAlt_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 65
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24c6df99012e12c0800000000000000
+      internalID: -4459090255830137811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal_ActivationAlt_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a7fab6a24244f20800000000000000
+      internalID: 3405886982812826183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal_ActivationAlt_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75d7a56c61b5fd30800000000000000
+      internalID: 4464669684727797119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal_ActivationAlt_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 0
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061b8934daad85f40800000000000000
+      internalID: 5717560164645122400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

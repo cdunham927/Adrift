@@ -1,0 +1,739 @@
+fileFormatVersion: 2
+guid: e4255eae10ed8ab4dacf457c19216046
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5730296462886925972
+    second: SpaceTiles_0
+  - first:
+      213: 6138381998153799509
+    second: SpaceTiles_1
+  - first:
+      213: -5378412113073399622
+    second: SpaceTiles_2
+  - first:
+      213: 4268414223548569407
+    second: SpaceTiles_3
+  - first:
+      213: -4897444044566142327
+    second: SpaceTiles_4
+  - first:
+      213: 6542639801407850155
+    second: SpaceTiles_5
+  - first:
+      213: 298751391744995875
+    second: SpaceTiles_6
+  - first:
+      213: -4324124781116941933
+    second: SpaceTiles_7
+  - first:
+      213: -8291028752589688421
+    second: SpaceTiles_8
+  - first:
+      213: 7910484593864428393
+    second: SpaceTiles_9
+  - first:
+      213: 2367135174135957747
+    second: SpaceTiles_10
+  - first:
+      213: -3463496276302308618
+    second: SpaceTiles_11
+  - first:
+      213: 5208866486440534942
+    second: SpaceTiles_12
+  - first:
+      213: 3279299055154437324
+    second: SpaceTiles_13
+  - first:
+      213: 8817948456071294103
+    second: SpaceTiles_14
+  - first:
+      213: 8625012054922102102
+    second: SpaceTiles_15
+  - first:
+      213: 1197196366524277167
+    second: SpaceTiles_16
+  - first:
+      213: -2434645581978615984
+    second: SpaceTiles_17
+  - first:
+      213: 4921695001324950423
+    second: SpaceTiles_18
+  - first:
+      213: 5051047964425789409
+    second: SpaceTiles_19
+  - first:
+      213: -6956797256861468701
+    second: SpaceTiles_20
+  - first:
+      213: 5052201911204943156
+    second: SpaceTiles_21
+  - first:
+      213: 8966749871438249899
+    second: SpaceTiles_22
+  - first:
+      213: -1068220802911216345
+    second: SpaceTiles_23
+  - first:
+      213: 6405042836454061686
+    second: SpaceTiles_24
+  - first:
+      213: 4169755910266468668
+    second: SpaceTiles_25
+  - first:
+      213: 8480360458934786020
+    second: SpaceTiles_26
+  - first:
+      213: -5734583220716264365
+    second: SpaceTiles_27
+  - first:
+      213: -684648269384022120
+    second: SpaceTiles_28
+  - first:
+      213: 5206054709199471941
+    second: SpaceTiles_29
+  - first:
+      213: 4004609020401947713
+    second: SpaceTiles_30
+  - first:
+      213: 2025724074905984349
+    second: SpaceTiles_31
+  - first:
+      213: -8216068243742713518
+    second: SpaceTiles_32
+  - first:
+      213: -941209482674997836
+    second: SpaceTiles_33
+  - first:
+      213: -2828823279987087513
+    second: SpaceTiles_34
+  - first:
+      213: 1494402325973667269
+    second: SpaceTiles_35
+  - first:
+      213: 8174535904637270530
+    second: SpaceTiles_0
+  - first:
+      213: -3343979493961045019
+    second: SpaceTiles_1
+  - first:
+      213: 8269869491058556423
+    second: SpaceTiles_2
+  - first:
+      213: -7574749677312466516
+    second: SpaceTiles_3
+  - first:
+      213: 7298161573608839951
+    second: SpaceTiles_4
+  - first:
+      213: -7379737437493897431
+    second: SpaceTiles_5
+  - first:
+      213: 5564286756645074625
+    second: SpaceTiles_6
+  - first:
+      213: 3302987103103623511
+    second: SpaceTiles_7
+  - first:
+      213: -2289778563872851017
+    second: SpaceTiles_8
+  - first:
+      213: -3068060565802698763
+    second: SpaceTiles_9
+  - first:
+      213: 3494850890219389349
+    second: SpaceTiles_10
+  - first:
+      213: 1542994760566724991
+    second: SpaceTiles_11
+  - first:
+      213: 551192563945294216
+    second: SpaceTiles_12
+  - first:
+      213: 4596003056714443609
+    second: SpaceTiles_13
+  - first:
+      213: 4322668482191210327
+    second: SpaceTiles_14
+  - first:
+      213: 5540702400122263459
+    second: SpaceTiles_15
+  - first:
+      213: 2901152653553027581
+    second: SpaceTiles_16
+  - first:
+      213: -5756117375825335394
+    second: SpaceTiles_17
+  - first:
+      213: -2013189415187586840
+    second: SpaceTiles_18
+  - first:
+      213: 7327506365071599596
+    second: SpaceTiles_19
+  - first:
+      213: 6622156967470780341
+    second: SpaceTiles_20
+  - first:
+      213: 3182219457862183818
+    second: SpaceTiles_21
+  - first:
+      213: 4365755697620470130
+    second: SpaceTiles_22
+  - first:
+      213: -3369102238299077524
+    second: SpaceTiles_23
+  - first:
+      213: -5994477266587173043
+    second: SpaceTiles_24
+  - first:
+      213: 7664662857325866666
+    second: SpaceTiles_25
+  - first:
+      213: -6995195754360392319
+    second: SpaceTiles_26
+  - first:
+      213: -9144881204999170300
+    second: SpaceTiles_27
+  - first:
+      213: 7588046588686542893
+    second: SpaceTiles_28
+  - first:
+      213: -3075460820094829723
+    second: SpaceTiles_29
+  - first:
+      213: 7047414689827715256
+    second: SpaceTiles_30
+  - first:
+      213: 8564865754468637945
+    second: SpaceTiles_31
+  - first:
+      213: -7270018646061564967
+    second: SpaceTiles_32
+  - first:
+      213: -7595382174867508280
+    second: SpaceTiles_33
+  - first:
+      213: -6131353615261266470
+    second: SpaceTiles_34
+  - first:
+      213: 861536069130596044
+    second: SpaceTiles_35
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpaceTiles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: 5}
+        - {x: -26, y: -26}
+        - {x: -38, y: -70}
+        - {x: -72, y: -70}
+        - {x: -63, y: -6}
+        - {x: -31, y: 36}
+        - {x: 9, y: 66}
+        - {x: 71, y: 72}
+        - {x: 71, y: 39}
+        - {x: 33, y: 28}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ab49f3819c17170800000000000000
+      internalID: 8174535904637270530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceTiles_1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 432
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -71, y: 37}
+        - {x: -71, y: 72}
+        - {x: 72, y: 72}
+        - {x: 72, y: 37}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ebe24e0e5cc791d0800000000000000
+      internalID: -3343979493961045019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceTiles_2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 432
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -71, y: 39}
+        - {x: -71, y: 72}
+        - {x: 70, y: 72}
+        - {x: 70, y: 39}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70eb2698c7a74c270800000000000000
+      internalID: 8269869491058556423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceTiles_3
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 432
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 34, y: -70}
+        - {x: 26, y: -24}
+        - {x: -1, y: 6}
+        - {x: -34, y: 30}
+        - {x: -71, y: 37}
+        - {x: -71, y: 72}
+        - {x: -13, y: 65}
+        - {x: 31, y: 33}
+        - {x: 62, y: -12}
+        - {x: 72, y: -70}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1294d1d4511e690800000000000000
+      internalID: -7574749677312466516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceTiles_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -70, y: -70}
+        - {x: -70, y: 71}
+        - {x: -40, y: 71}
+        - {x: -40, y: -70}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b5c5ca847484560800000000000000
+      internalID: 7298161573608839951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceTiles_5
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 288
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927568e66e7e59990800000000000000
+      internalID: -7379737437493897431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceTiles_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c67d360351583d40800000000000000
+      internalID: 5564286756645074625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceTiles_7
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 288
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 34, y: -70}
+        - {x: 34, y: 70}
+        - {x: 72, y: 70}
+        - {x: 72, y: -70}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7512032354196dd20800000000000000
+      internalID: 3302987103103623511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceTiles_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -71, y: -72}
+        - {x: -71, y: 72}
+        - {x: -38, y: 72}
+        - {x: -38, y: -72}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bbfd0627821930e0800000000000000
+      internalID: -2289778563872851017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceTiles_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f732f1bb2f0c65d0800000000000000
+      internalID: -3068060565802698763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceTiles_10
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 144
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a10c7e3e54308030800000000000000
+      internalID: 3494850890219389349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceTiles_11
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 144
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 36, y: -70}
+        - {x: 36, y: 70}
+        - {x: 72, y: 70}
+        - {x: 72, y: -70}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f795ed14f81d96510800000000000000
+      internalID: 1542994760566724991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceTiles_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 72, y: -72}
+        - {x: 13, y: -60}
+        - {x: -29, y: -33}
+        - {x: -61, y: 7}
+        - {x: -72, y: 71}
+        - {x: -38, y: 70}
+        - {x: -28, y: 29}
+        - {x: -1, y: -3}
+        - {x: 33, y: -26}
+        - {x: 72, y: -35}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889cbc077ba36a700800000000000000
+      internalID: 551192563945294216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceTiles_13
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -71, y: -70}
+        - {x: -71, y: -36}
+        - {x: 72, y: -36}
+        - {x: 72, y: -70}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95be21eed6848cf30800000000000000
+      internalID: 4596003056714443609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceTiles_14
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -71, y: -71}
+        - {x: -71, y: -37}
+        - {x: 70, y: -37}
+        - {x: 70, y: -71}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757b8c205143dfb30800000000000000
+      internalID: 4322668482191210327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceTiles_15
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -71, y: -70}
+        - {x: -71, y: -35}
+        - {x: -29, y: -23}
+        - {x: 1, y: -5}
+        - {x: 24, y: 30}
+        - {x: 35, y: 70}
+        - {x: 71, y: 71}
+        - {x: 58, y: 4}
+        - {x: 23, y: -38}
+        - {x: -13, y: -60}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7117d1a7784ec40800000000000000
+      internalID: 5540702400122263459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
